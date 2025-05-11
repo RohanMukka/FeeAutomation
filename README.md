@@ -134,7 +134,6 @@ npm start
 
 ## 🖼 Screenshots
 
-> _Add screenshots in `/screens` folder and update these paths._
 
 | Page | Preview |
 |------|---------|
